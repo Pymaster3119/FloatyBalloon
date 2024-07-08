@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: b14e344f82e294ebdb9858885531af6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 96
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b980b39324b4663ab3315027ba7dbc
+      internalID: -539317267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64f8d5488ce438690da81bb7f0811d
+      internalID: -628182736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f433a66f20a84cd4a3b0ed46edde71e
+      internalID: 690416470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 97
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f8dedc24de64c539fb523e4ab1d13f
+      internalID: 230381333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abfe9790903f484ca8979b1c860dbf0
+      internalID: -440701947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 113
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26efbdfe6acc461e97f492d7ec3f978
+      internalID: -358804016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 113
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f23a5c53264c1f89f8407f35f12be
+      internalID: -151554744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 108
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c913b2c0a9b1e4000bf66a74245290c6
+      internalID: 1070368180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 119
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97067230413864930a6118b36f59d91e
+      internalID: 684496719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 118
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f816dfd075de4a988e8880b1918653d
+      internalID: 1582538423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 145
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de175a8d0af4b44946a2c54451bba3
+      internalID: -1128653870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff76cf55c72140a8bf3d8ff9cb565f4
+      internalID: 514157764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 120
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d9fd3b9e4e49f3a48b99e147191ed
+      internalID: -421005993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 128
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e274dcbcae2049eaa3332588e961fee
+      internalID: -2138740913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec5f6542f9349f78311e49b3ed0051
+      internalID: -847783940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ea106b5aee411e8cbe89044daa842
+      internalID: 1929813638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 121
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbab2e000a8c496e8d4869d284b24cd
+      internalID: -411626270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63f7d891023e46549bea396d71e537f
+      internalID: -2059103212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 98
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6013f34d05e417092be057e7811c1b
+      internalID: -657743313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 100
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434fb69152b448fcb72032a487c44f7
+      internalID: -176650598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_4: -440701947
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_5: -358804016
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_6: -151554744
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_8: 684496719
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_18: -657743313
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_16: -411626270
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_2: 690416470
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_14: -847783940
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_17: -2059103212
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_1: -628182736
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_13: -2138740913
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_19: -176650598
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_3: 230381333
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_11: 514157764
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_15: 1929813638
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_10: -1128653870
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_12: -421005993
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_7: 1070368180
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_0: -539317267
+      heart-burst-animation-sprite-sheet-260nw-2183647713-removebg-preview_9: 1582538423
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
